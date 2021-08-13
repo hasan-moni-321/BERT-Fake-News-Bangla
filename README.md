@@ -51,4 +51,6 @@ PyTorch
 ![alt txt](https://github.com/hasan-moni-321/BERT-Fake-News-Bangla/blob/main/images/11.png)
 
 
-
+### Future Work 
+1. Take more and more data for a very standard training of the model and for getting a best accuracy
+2. Use EarlyStopping, LearningRateScheduler for overcoming overfitting.  
